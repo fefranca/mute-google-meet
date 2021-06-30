@@ -16,8 +16,7 @@
         "default_title": "Mute Google Meet"
     },
     "permissions": [
-        "scripting",
-        "tabs"
+        "scripting"
     ],
     "host_permissions": [
         "https://meet.google.com/"

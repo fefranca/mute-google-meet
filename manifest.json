@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Mute Google Meet",
-    "description": "Mutes Google Meet from any tab.",
+    "description": "Mute and unmute Google Meet from any tab, set default authuser and close inactive Google Meet tabs.",
     "version": "1.0",
     "author": "Fernando França",
     "icons": {
